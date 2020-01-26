@@ -7,7 +7,7 @@ gear off.
 - RMSE Error: 0.000028
 - Training Epochs: 50
 
-The Cascading descision tree is utilized to prevent the 'Cure of Dimensionality'. An inherent problem with complex fuzzy systems wherein 
+The Cascading descision tree is utilized to prevent the 'Curse of Dimensionality'. An inherent problem with complex fuzzy systems wherein 
 computational efficiency decreases with increase in number of fuzzy rules. 
 
 
